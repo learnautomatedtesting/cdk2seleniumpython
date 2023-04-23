@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=282333594418:region=eu-west-2": [
+    "eu-west-2a",
+    "eu-west-2b",
+    "eu-west-2c"
+  ],
+  "hosted-zone:account=282333594418:domainName=learnautomatedtesting.com:region=eu-west-2": {
+    "Id": "/hostedzone/Z089947213I7EBV6UX55I",
+    "Name": "learnautomatedtesting.com."
+  }
+}
